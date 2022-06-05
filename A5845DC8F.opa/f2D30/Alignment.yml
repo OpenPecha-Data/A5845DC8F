@@ -1,0 +1,19 @@
+segment_sources:
+  I69BDD1D8:
+    type: origin_type
+    relation: translation
+    language: en
+  ID83D6C34:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2f532b5cca1249dba217425a2d65f41d:
+    I69BDD1D8: 2ec434f038d04d1987ee18c4f49dcc28
+    ID83D6C34: 7f5f70c05d0b460386a8f855b0dda3bd
+  6bcf37043f6d4fdf86530f0e72d64ee1:
+    I69BDD1D8: 568288d2ecab4c9980a544147975d1ea
+    ID83D6C34: e5bddbfe627b4b2aa0e94b3abca4cbef
+  633822afff814f67a8685a8ecd278b79:
+    I69BDD1D8: 9e160efee51f45c084c72b504a1c462b
+    ID83D6C34: f7e67b2e694945a4913ca8aa5d4c9c61
